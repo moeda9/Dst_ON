@@ -6,8 +6,6 @@ In this study, we develop a neural network, specifically LSTM, with an attention
 
 How to run: python main.py
 
-Model version 2025 will be coming soon.
-
 ***
 Libraries:
 ***
