@@ -7,7 +7,7 @@ In this study, we develop a neural network, specifically LSTM, with an attention
 How to run: python main.py
 
 ***
-Libraries:
+Dependent libraries:
 ***
   Matplotlib       ==      3.10.8
   Sklearn          ==      1.8.0
