@@ -5,6 +5,8 @@ In this study, we develop a neural network, specifically LSTM, with an attention
 <br><br>
 How to run: python main.py
 <br><br>
+To generate predictions of other geomagnetic storms, just update the database directory. Similarly, it is possible to generate predictions from various models just by inserting them into the model directory.
+<br><br>
 ***<br>
 Dependent libraries:<br>
 ***<br>
